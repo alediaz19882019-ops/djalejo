@@ -1,0 +1,7 @@
+{
+  "name": "Alejodj",
+  "description": "Alejodj - Professional Web DJ mixer with dual decks, auto-mix, and rhythmic visualizer.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
